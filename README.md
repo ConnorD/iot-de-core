@@ -1,2 +1,2 @@
 # iot-de-core
-A lightweight bridge between an MQTT Gateway and Google Cloud Platform and alternative to GCP's deprecated IoT Core.
+A lightweight bridge between MQTT Gateways and GCP PubSub. This can serve as a replacement for using GCP's deprecated IoT Core service.
